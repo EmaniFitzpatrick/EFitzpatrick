@@ -9,3 +9,14 @@ My 'about me' repository
  <img alt="Blue Spider Web Banner" src="https://img.freepik.com/premium-vector/halloween-spider-web-banner-cobweb-background_501557-212.jpg">
 </picture>
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages    |
+|-----:|--------------|
+|     1| Java         |
+|     2| Javascript   |
+|     3| HTML         |
+|     4| CSS          |
+
+</details>
